@@ -1,0 +1,2 @@
+# AmazonProductReviews
+This project aims to build Recommendation Systems using the Amazon product reviews dataset, which contains ratings of different electronic products. I will build different recommendation models (ranked-based, similarity-based, and model-based collaborative filterings) to provide personalized suggestions (products they are likely to buy) to different users on the Amazon E-commerce website based on their ratings on others products.
